@@ -12,21 +12,21 @@ This script helps organize files in the `Downloads` folder by moving them to spe
 
 2. Copy and paste the provided code into the file.
 
-3. Save the file with a `.py` extension, for example, `downloads_organizer.py`.
+3. Save the file with the extension of a `.py` extension, for example, `downloads_organizer.py`.
 
-4. Open a terminal or command prompt and navigate to the directory where the script file is saved.
+5. Open a terminal or command prompt and navigate to the directory where the script file is saved.
 
-5. Run the script by executing the following command:
+6. Run the script by executing the following command:
 
    ```shell
    python downloads_organizer.py
    ```
 
-6. The script will start monitoring the `Downloads` folder and automatically move files to their respective folders based on their extensions.
+7. The script will start monitoring the `Downloads` folder and automatically move files to their respective folders based on their extensions.
 
-7. Screenshots saved on the desktop will also be moved to a separate `Screenshots` folder.
+8. Screenshots saved on the desktop will also be moved to a separate `Screenshots` folder.
 
-8. The script will run continuously until you manually stop it by pressing `Ctrl + C`.
+9. The script will run continuously until you manually stop it by pressing `Ctrl + C`.
 
 ### Configuration
 
